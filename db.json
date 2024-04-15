@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "mobname": "realme",
+      "mobmodel": "45",
+      "mobcolor": "blue",
+      "id": 1
+    },
+    {
+      "mobname": "realme",
+      "mobmodel": "45",
+      "mobcolor": "blue",
+      "id": 3
+    },
+    {
+      "mobname": "samsung",
+      "mobmodel": "41",
+      "mobcolor": "white",
+      "id": 4
+    },
+    {
+      "mobname": "nokia",
+      "mobmodel": "11",
+      "mobcolor": "black",
+      "id": 5
+    },
+    {
+      "mobname": "samsung",
+      "mobmodel": "11",
+      "mobcolor": "grey",
+      "id": 6
+    }
+  ]
+}
